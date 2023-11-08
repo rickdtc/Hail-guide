@@ -1,5 +1,8 @@
 # Guide to [hail](https://github.com/aistra0528/Hail).
 A short guide on hail to get you started.
+
+Telegram group - https://t.me/hail_android
+
 ## For non-root.
 1. Setup shizuku.
 2. Open hail and go to settings tab.
