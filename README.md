@@ -4,7 +4,7 @@ A short guide on hail to get you started.
 Telegram group - https://t.me/hail_android
 
 ## For non-root.
-1. Setup shizuku.
+1. [Setup shizuku.](https://shizuku.rikka.app/guide/setup/#start-shizuku)
 2. Open hail and go to settings tab.
 3. Tap on working mode. 
 4. You should see `Shizuku - Disable`, `Shizuku - Hide` and `Shizuku - Suspend`. Follow [this](
